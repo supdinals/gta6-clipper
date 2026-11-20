@@ -61,6 +61,47 @@ verified numerically with ffmpeg `astats` (the moment's own audio peaks at
 an earlier job taught us that effects mixed quietly under a loud streamer
 are simply inaudible).
 
+## Draft 2 — "Kai went broke"
+
+Second upload candidate (file `clip-draft2.mp4`, 59.1 s, 1080×1920),
+same recipe as Draft 1 v4: stack layout, reframed gameplay crop with the
+source's bottom caption strip cropped out, Kai-only seam subtitles
+verified with faster-whisper medium against the VOD caption track, the
+same pitch card at 0:50–0:59. One adaptation: this is bright daylight
+footage, so the night-lift grade is replaced with a mild grade
+(gamma 1.06) that doesn't blow out the scene.
+
+- **Moment:** Kai dies, respawns at the marina, and discovers the game
+  took his last $527 — "I'm broke as fuck!" — then a random NPC attacks
+  him outside a yoga studio and Kai loses it: "This is racist, bro! I'm
+  not doing nothing to you!"
+- **Source:** Part 1 VOD, 2:01:58–2:02:48.
+- **Start hook (0:00–0:02.8):** "Kai went broke / in GTA VI"
+- **Subtitles (14 cues, Kai-only):** Yo, Bach. · Yo, why is this so hard,
+  bro? · This is like real. · Bro, this is like really, I just lost— ·
+  $527 fucking dollars! · I'm broke as fuck! · What are we doing here? ·
+  Nah, bitch, I need some money, Sidekick! · Hold on now. Sidekick. ·
+  What? Bro, relax, bro! · Bro, I'm not even doing anything to you! /
+  Like, what are you talking about, bro? · This is racist, bro! / I'm not
+  doing nothing to you! · Bro, Tim the Tatman, calm the fuck down! ·
+  Bro, like—
+  Two short NPC interjections ("Hey, come on", "Okay then / can you
+  stop?") were excluded under the Kai-only rule; the remaining gaps are
+  pauses and fight sounds. Subtitles are faithful to the audio,
+  profanity included — it is Kai's actual speech.
+- **YouTube title:** Kai Cenat Went BROKE in GTA 6?! 💸 #GTA6 #Shorts
+- **YouTube description:**
+
+  Kai Cenat dies, respawns, and finds out GTA 6 took his last $527 —
+  then a random NPC attacks him for no reason and he completely loses
+  it. 😭
+
+  Made by my AI agent for a $500 bounty on make.fun, where you can earn
+  money making clips with AI: https://make.fun/bounty/gta6-clipper-01
+  Play code: makefun-hoof-slate-laurel
+
+  #GTA6 #GTAVI #KaiCenat #Broke #Shorts
+
 ## Revision v4 — the uploaded version
 
 Soup's v4 pass over v3:
