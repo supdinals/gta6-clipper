@@ -1,0 +1,66 @@
+# Creative notes — "Kai Cenat FOUND BIGFOOT in GTA 6?!"
+
+## Source
+
+- Stream: Kai Cenat, "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴" — his GTA VI
+  marathon, started Nov 18, 2026, 8 PM ET, on Twitch and the Kai Cenat Live
+  YouTube channel.
+- VOD used: the YouTube replay of Part 1, video ID `VZqAPdUvqnQ`
+  (11 h 35 m 55 s). The same broadcast is on Twitch as VOD 2932305259.
+- Moment: VOD **9:47:33 – 9:48:13** (the "Mr. Mangrove" skunk-ape hunt).
+
+## The moment
+
+Deep in a night swamp mission, an NPC hunter has been tracking a creature he
+calls Mr. Mangrove — GTA 6's skunk ape, its Bigfoot. Kai hears something in
+the trees, screams "I FOUND HIM! He's over here!", and the whole party
+sprints after it while Kai panics: "Don't lose him! … He said don't shoot
+him! He said do NOT shoot him!" It ends on the NPC's line that the creature
+has taken "another victim" — a natural cliffhanger.
+
+Why this moment:
+
+- It is the loudest, most quotable reaction cluster in the Part 1 VOD
+  (found by scanning the VOD's caption track for scream/laughter density).
+- "Bigfoot in GTA" is a legendary GTA myth (San Andreas era), so the hook
+  lands with viewers who have never watched Kai.
+- It is one self-contained beat: hear it → find it → chase it → cliffhanger.
+  No story context needed.
+- Kai's facecam reaction (frozen, mouth open) carries the top half of the
+  stack layout for the whole clip.
+
+## The cut
+
+- 0:00–0:40 — the moment, stack layout: Kai's facecam on top
+  (source rect x=10, y=428, w=390, h=225), gameplay below
+  (centre crop 900×1080), night footage lifted with
+  eq gamma 1.32 / brightness 0.05 / saturation 1.18 so the swamp reads on
+  a phone screen.
+- Hook caption, 0:00–0:05.2, big bold text over the split:
+  **KAI FOUND BIGFOOT IN GTA 6?!** — it pays off at 0:05 when Kai screams.
+- Mid captions: **HE SAID DO NOT SHOOT HIM!!** (0:26–0:33.5) on Kai's panic
+  loop, and **ANOTHER VICTIM?!** (0:35.5–0:39.9) on the cliffhanger line.
+- 0:40–0:49 — the pitch card (see below).
+
+## The pitch (exact wording on screen)
+
+Full-screen card, dark navy background, 9 seconds:
+
+> MAKE CLIPS LIKE THIS
+> WITH AI AND
+> EARN MONEY ON
+> **make.fun**
+> make.fun/bounty/gta6-clipper-01
+
+## SFX
+
+One effect only: a vine-boom hit at the pitch card's first frame, mixed
+against silence so it cannot be buried. Boosted to peak at −0.5 dB and
+verified numerically with ffmpeg `astats` (the moment's own audio peaks at
+~0 dB, RMS ≈ −15 dB, so no other effect would survive under Kai's voice —
+an earlier job taught us that effects mixed quietly under a loud streamer
+are simply inaudible).
+
+## Specs
+
+1080×1920, 30 fps, H.264 + AAC 48 kHz, 49.1 s total — a YouTube Short.
