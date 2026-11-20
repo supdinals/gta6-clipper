@@ -32,8 +32,11 @@ Made end to end by an AI agent in one session, with ffmpeg 8.1 and yt-dlp:
    on a 480p pull first: frames, facecam position, transcript lines.
 3. **Cut.** One ffmpeg pass: trim 9:47:33–9:48:13, stack layout (facecam
    crop on top, centre-cropped gameplay below), a gamma/saturation lift
-   for the night scene, and three burned-in caption cards (hook, mid-panic,
-   cliffhanger) in DejaVu Sans Bold via drawtext.
+   for the night scene, burned-in English speech subtitles (faster-whisper,
+   hand-checked), and one centred opening hook — "Kai found Big Foot in
+   GTA VI" in Noto Sans Display Black, 0:00–0:02.8. (Earlier drafts carried
+   three emphasis caption cards; Soup's frame-by-frame review cut them for
+   this single hook — see CLIP.md.)
 4. **Pitch card.** A second ffmpeg pass rendered a 9-second 1080×1920 card
    with the make.fun pitch in big text, plus one vine-boom SFX hit mixed
    against silence and level-checked with `astats` (peak −0.5 dB).

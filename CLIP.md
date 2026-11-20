@@ -36,10 +36,10 @@ Why this moment:
   (centre crop 900×1080), night footage lifted with
   eq gamma 1.32 / brightness 0.05 / saturation 1.18 so the swamp reads on
   a phone screen.
-- Hook caption, 0:00–0:05.2, big bold text over the split:
-  **KAI FOUND BIGFOOT IN GTA 6?!** — it pays off at 0:05 when Kai screams.
-- Mid captions: **HE SAID DO NOT SHOOT HIM!!** (0:26–0:33.5) on Kai's panic
-  loop, and **ANOTHER VICTIM?!** (0:35.5–0:39.9) on the cliffhanger line.
+- One hook only (v3, see the revision note below): **Kai found Big Foot
+  in GTA VI**, centred on the frame, 0:00–0:02.8, in Noto Sans Display
+  Black. Nothing else is overlaid on the moment except the speech
+  subtitles.
 - 0:40–0:49 — the pitch card (see below).
 
 ## The pitch (exact wording on screen)
@@ -60,6 +60,20 @@ verified numerically with ffmpeg `astats` (the moment's own audio peaks at
 ~0 dB, RMS ≈ −15 dB, so no other effect would survive under Kai's voice —
 an earlier job taught us that effects mixed quietly under a loud streamer
 are simply inaudible).
+
+## Revision v3 — the uploaded version
+
+Soup reviewed v2 frame by frame ("hampir sempurna") and asked for one
+clean-up, which is the final uploaded cut:
+
+- All three v1/v2 emphasis captions are **removed** ("KAI FOUND BIGFOOT
+  IN GTA 6?!", "HE SAID DO NOT SHOOT HIM!!", "ANOTHER VICTIM?!").
+- A single hook replaces them: the exact text **"Kai found Big Foot in
+  GTA VI"**, set in **Noto Sans Display Black** (weight 900 — a different,
+  heavier display font than the DejaVu Sans Bold used elsewhere), white
+  with black outline over a soft dark box, centred horizontally and
+  vertically on the 1080×1920 frame, shown only for 0:00–0:02.8.
+- The v2 speech subtitles and the pitch card are unchanged.
 
 ## Subtitles (v2)
 
