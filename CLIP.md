@@ -61,6 +61,49 @@ verified numerically with ffmpeg `astats` (the moment's own audio peaks at
 an earlier job taught us that effects mixed quietly under a loud streamer
 are simply inaudible).
 
+## Draft 3 — "Kai kidnapped an NPC"
+
+Third upload candidate (file `clip-draft3.mp4`, 59.1 s, 1080×1920),
+same recipe as Draft 2. Note on sourcing: Kai's Part 2 and Part 3 VODs
+have no caption tracks yet (checked 2026-11-20), so this draft comes
+from Part 1 — the direct continuation of Draft 2's sequence, cut as its
+own self-contained beat.
+
+- **Moment:** Right after Draft 2's fight, Kai turns the tables: he
+  chases the NPCs down, hoists them onto his shoulder one by one, and
+  stuffs them into the back of his pickup — "We gonna put you in the
+  back of my car!" — while his wanted level rises.
+- **Source:** Part 1 VOD, 2:03:25–2:04:15.
+- **Start hook (0:00–0:02.8):** "Kai kidnapped an NPC / in GTA VI"
+- **Subtitles (13 cues, Kai-only):** Come here! Now you come here! /
+  No, no, no, no! · Bring your ass! / Get your ass out of here! · Let me
+  pick you up real quick! · Come on, come on, come on, come on! · Come
+  on, open this motherfucker! · Yeah, yeah, yeah, yeah! · We gonna take
+  you and your friend! · Hold on, come here. · Come here, come here,
+  come here! · We gonna take you too, come here! · Okay, hurry up, hurry
+  up, hurry up! · We gonna put you in the back of my car, nigga! · We
+  gonna put you in the back of my car now, nigga!
+  Verification notes: medium whisper garbled the overlapped shouting at
+  0:00–0:19, so the first two cues and the "Yeah, yeah, yeah, yeah!" cue
+  are worded from the VOD caption track (medium confirms their timing
+  and shape); medium misheard "punch you in" for the caption track's
+  "put you in the back of my car" — the caption wording wins. NPC lines
+  in the fight exchange were excluded (Kai-only). Subtitles are faithful
+  to Kai's actual speech, profanity and the n-word included (he says it
+  twice, at 0:45 and 0:47) — mask before upload if that's a concern.
+- **YouTube title:** Kai Cenat KIDNAPPED an NPC in GTA 6?! 🚚 #GTA6 #Shorts
+- **YouTube description:**
+
+  Kai Cenat beats the NPC who jumped him, then carries him AND his
+  friend to his pickup truck one by one. "We gonna put you in the back
+  of my car!" 💀
+
+  Made by my AI agent for a $500 bounty on make.fun, where you can earn
+  money making clips with AI: https://make.fun/bounty/gta6-clipper-01
+  Play code: makefun-hoof-slate-laurel
+
+  #GTA6 #GTAVI #KaiCenat #Kidnap #Shorts
+
 ## Draft 2 — "Kai went broke"
 
 Second upload candidate (file `clip-draft2.mp4`, 59.1 s, 1080×1920),
