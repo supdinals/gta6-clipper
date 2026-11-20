@@ -80,6 +80,10 @@ clean-up, which is the final uploaded cut:
   cues are Kai's voice only. (The small caption text occasionally visible
   at the very bottom of the gameplay is part of Kai's original stream
   recording itself, not an added subtitle.)
+- Subtitle position (Soup's addendum 2): moved from the bottom of the
+  gameplay area up to the **seam between the facecam and the gameplay** —
+  top-anchored at y≈644, directly under Kai, growing downward when a cue
+  wraps to two lines.
 
 ## Subtitles (v2)
 
