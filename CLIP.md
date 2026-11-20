@@ -80,6 +80,21 @@ untouched.
   ~0:15 stays unsubtitled, and the NPC's "another victim" (~0:55) stays
   excluded — Kai-only as before.
 
+### Draft 2 final — Broke (`clip-draft2-final.mp4`)
+
+- **59.955 s, 1080×1920, 53,687,140 bytes.** Moment 58.93 s + pitch 1.0 s.
+- **New source range:** Part 1 VOD **2:01:58–2:02:57** — extended at
+  the END, not the head. (A head extension to 2:01:50 was rendered
+  first and discarded: those 8 s are the black death screen, so the
+  gameplay panel sat black under the hook. Noted so nobody retries it.)
+- **Cue changes:** the original 13 cues are unchanged; the closing
+  fragment "Bro, like—" is replaced by the full rant ending, verified
+  with medium whisper: 49.10–52.60 "Bro, like, yo — this is racist,
+  bro!" · 52.60–54.50 "Bro, come on, I'm not—" · 54.50–58.12 "Even
+  doing anything to you, bro! / Why are you chasing me, though?" The
+  clip now ends mid-fight on that question; the last ~0.8 s is NPC
+  groans (non-verbal).
+
 ## Draft 3 — "Kai kidnapped an NPC"
 
 Third upload candidate (file `clip-draft3.mp4`, 59.1 s, 1080×1920),
