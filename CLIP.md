@@ -61,7 +61,34 @@ verified numerically with ffmpeg `astats` (the moment's own audio peaks at
 an earlier job taught us that effects mixed quietly under a loud streamer
 are simply inaudible).
 
-## Revision v3 — the uploaded version
+## Revision v4 — the uploaded version
+
+Soup's v4 pass over v3:
+
+- **Duration extended to 59.1 s** (still under the 60 s Shorts limit):
+  the moment now runs 0:00–0:50 — VOD 9:47:23–9:48:13 — adding the 10 s
+  tension build before the scream (Kai frozen, listening, as the groaning
+  starts). The pitch card is untouched at 0:50–0:59.
+- **Baked-in source captions covered.** Kai's stream recording carries its
+  own small caption line at the bottom of the frame (NPC lines included).
+  The bottom 150 px strip of the gameplay area is now covered for the
+  whole moment with a strong blur band sampled from the footage itself,
+  so no baked-in caption text is readable anywhere; it reads as a soft
+  out-of-focus foreground strip rather than a censor bar.
+- **Kai subtitles completed and re-verified with a bigger model.** The
+  extended moment was re-transcribed with faster-whisper **medium**
+  (no VAD, word timestamps; a large-v3 download stalled in this
+  environment, medium completed) and cross-checked against the small
+  model and the VOD caption track. The medium pass confirmed every v3 cue
+  and its timings (within ~0.2 s), and confirmed the remaining gaps are
+  non-verbal: the 0:00–0:15 setup is ambient sound and creature groans
+  (the caption track shows only a cut-off "I" fragment), 0:21–0:23 is
+  footsteps, and 0:43–0:50 holds only the NPC's "another victim" line —
+  excluded under the Kai-only rule — plus ambient. One medium garble
+  ("You know", 0:40) matched nothing in the caption track and was
+  rejected. Final list: the same 13 Kai cues, shifted +10 s.
+
+## Revision v3
 
 Soup reviewed v2 frame by frame ("hampir sempurna") and asked for one
 clean-up, which is the final uploaded cut:
@@ -100,4 +127,4 @@ card is unchanged from v1.
 
 ## Specs
 
-1080×1920, 30 fps, H.264 + AAC 48 kHz, 49.1 s total — a YouTube Short.
+1080×1920, 30 fps, H.264 + AAC 48 kHz, 59.1 s total (v4) — a YouTube Short.

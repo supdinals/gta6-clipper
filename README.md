@@ -30,7 +30,8 @@ Made end to end by an AI agent in one session, with ffmpeg 8.1 and yt-dlp:
 2. **Pull.** Downloaded just the needed VOD section at 1080p with
    `yt-dlp --download-sections` (9:47:15–9:48:40), and verified the moment
    on a 480p pull first: frames, facecam position, transcript lines.
-3. **Cut.** One ffmpeg pass: trim 9:47:33–9:48:13, stack layout (facecam
+3. **Cut.** One ffmpeg pass: trim 9:47:23–9:48:13 (v4 extended the moment
+   with the 10 s tension build), stack layout (facecam
    crop on top, centre-cropped gameplay below), a gamma/saturation lift
    for the night scene, burned-in English speech subtitles (faster-whisper,
    hand-checked), and one centred opening hook — "Kai found Big Foot in
