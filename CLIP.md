@@ -97,7 +97,13 @@ untouched.
 
 ### Draft 3 final — Kidnap (`clip-draft3-final.mp4`)
 
-- **59.955 s, 1080×1920, 65,848,214 bytes.** Moment 58.93 s + pitch 1.0 s.
+- **59.955 s, 1080×1920, 65,864,336 bytes.** Moment 58.93 s + pitch 1.0 s.
+- **MASKED (Soup's decision, 2026-11-20):** in this final file the
+  n-word in the two "back of my car" cues is rendered **"n***a"** —
+  the rest of each line is identical, and both cues are wrapped to two
+  lines so nothing runs off-screen. The audio is untouched (masking is
+  subtitle-only). **This on-disk final is the masked version**; the
+  earlier verbatim render was overwritten.
 - **New source range:** Part 1 VOD **2:03:25–2:04:24** — extended at
   the end: Kai finishes loading the second body and drives off with
   both of them in the truck bed.
@@ -138,6 +144,10 @@ own self-contained beat.
   in the fight exchange were excluded (Kai-only). Subtitles are faithful
   to Kai's actual speech, profanity and the n-word included (he says it
   twice, at 0:45 and 0:47) — mask before upload if that's a concern.
+  **Update 2026-11-20: Soup decided to mask it. The FINAL cut (above)
+  renders it "n***a"; this older 50 s file is unchanged and still
+  carries the verbatim word (and those two long cues run off the
+  screen edges in it — another reason to upload the final instead).**
 - **YouTube title:** Kai Cenat KIDNAPPED an NPC in GTA 6?! 🚚 #GTA6 #Shorts
 - **YouTube description:**
 
