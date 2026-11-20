@@ -95,6 +95,19 @@ untouched.
   clip now ends mid-fight on that question; the last ~0.8 s is NPC
   groans (non-verbal).
 
+### Draft 3 final — Kidnap (`clip-draft3-final.mp4`)
+
+- **59.955 s, 1080×1920, 65,848,214 bytes.** Moment 58.93 s + pitch 1.0 s.
+- **New source range:** Part 1 VOD **2:03:25–2:04:24** — extended at
+  the end: Kai finishes loading the second body and drives off with
+  both of them in the truck bed.
+- **Cue changes:** the original 13 cues are untouched (verbatim, per
+  Soup's instruction). Two new cues from the added range, verified with
+  medium whisper and the caption track: 50.18–51.28 "Get in there! Get
+  in there now!" · 52.52–54.82 "All right? All right, / come on, come
+  on, come on." The last ~4 s (54.8–58.9) has no speech — engine and
+  road noise as he escapes.
+
 ## Draft 3 — "Kai kidnapped an NPC"
 
 Third upload candidate (file `clip-draft3.mp4`, 59.1 s, 1080×1920),
