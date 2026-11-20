@@ -69,12 +69,18 @@ Soup's v4 pass over v3:
   the moment now runs 0:00–0:50 — VOD 9:47:23–9:48:13 — adding the 10 s
   tension build before the scream (Kai frozen, listening, as the groaning
   starts). The pitch card is untouched at 0:50–0:59.
-- **Baked-in source captions covered.** Kai's stream recording carries its
-  own small caption line at the bottom of the frame (NPC lines included).
-  The bottom 150 px strip of the gameplay area is now covered for the
-  whole moment with a strong blur band sampled from the footage itself,
-  so no baked-in caption text is readable anywhere; it reads as a soft
-  out-of-focus foreground strip rather than a censor bar.
+- **Baked-in source captions deleted by reframing** (Soup's correction:
+  removed, not covered — no blur band, no bar). Kai's stream recording
+  carries its own small caption line in the bottom strip of the source
+  frame (NPC lines included). The gameplay crop no longer includes that
+  strip at all: the crop window is now 783×940 from the top of the source
+  frame (was 900×1080), re-scaled to fill the same 1080×1296 gameplay
+  area — a slightly tighter, more zoomed framing with no distortion and
+  nothing overlaid. Frame checks across the moment (including 0:19.5,
+  where the NPC caption used to sit, and the 0:46.5 reveal) show no
+  surviving baked-in caption text anywhere; the only readable captions
+  in the clip are our Kai subtitles at the seam. (An earlier v4 render
+  used a blur band; it was replaced by this crop at Soup's direction.)
 - **Kai subtitles completed and re-verified with a bigger model.** The
   extended moment was re-transcribed with faster-whisper **medium**
   (no VAD, word timestamps; a large-v3 download stalled in this
