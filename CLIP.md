@@ -61,6 +61,19 @@ verified numerically with ffmpeg `astats` (the moment's own audio peaks at
 an earlier job taught us that effects mixed quietly under a loud streamer
 are simply inaudible).
 
+## Subtitles (v2)
+
+The uploaded version (v2) adds burned-in English sentence subtitles for all
+speech in the moment (0:00–0:40), low-centre in the gameplay area: Kai's
+"Oh shit! Hey! I found him! He's over here!", the NPC's "Get after him! We
+can catch him right now!", Kai's "don't lose him" panic and the five
+"he said don't shoot him!" repeats, and the closing "Another victim."
+Transcribed locally with faster-whisper (small, word timestamps), then
+hand-checked line by line against the VOD's caption track and the game's
+own on-screen subtitles; shouted garbles were corrected from those sources
+and one unverified whisper line was dropped rather than guessed. The pitch
+card is unchanged from v1.
+
 ## Specs
 
 1080×1920, 30 fps, H.264 + AAC 48 kHz, 49.1 s total — a YouTube Short.
