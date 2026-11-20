@@ -61,6 +61,25 @@ verified numerically with ffmpeg `astats` (the moment's own audio peaks at
 an earlier job taught us that effects mixed quietly under a loud streamer
 are simply inaudible).
 
+## FINAL CUTS — 59 s moment + 1 s outro (2026-11-20 revision)
+
+Soup's revision: the moment runs ~59 s and the pitch card is cut to
+exactly 1.0 s (vine-boom still at its first frame, peak −0.58 dB).
+Total ≤ 60.0 s on every final. The 50 s + 9 s builds above stay on disk
+untouched.
+
+### Draft 1 final — Bigfoot (`clip-draft1-final.mp4`)
+
+- **59.955 s, 1080×1920, 54,420,894 bytes.** Moment 58.93 s + pitch 1.0 s.
+- **New source range:** Part 1 VOD **9:47:15–9:48:14** (8 s more setup
+  at the head; the cliffhanger reveal now holds ~4 s longer before the
+  pitch).
+- **Cue changes:** all 13 v4 cues shifted +8.00 s; one new cue from the
+  added setup, verified with medium whisper: **2.46–5.36 "I heard it!"**
+  (the line that starts the whole hunt). A cut-off "I" fragment at
+  ~0:15 stays unsubtitled, and the NPC's "another victim" (~0:55) stays
+  excluded — Kai-only as before.
+
 ## Draft 3 — "Kai kidnapped an NPC"
 
 Third upload candidate (file `clip-draft3.mp4`, 59.1 s, 1080×1920),
