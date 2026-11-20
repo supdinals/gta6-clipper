@@ -73,7 +73,13 @@ clean-up, which is the final uploaded cut:
   heavier display font than the DejaVu Sans Bold used elsewhere), white
   with black outline over a soft dark box, centred horizontally and
   vertically on the 1080×1920 frame, shown only for 0:00–0:02.8.
-- The v2 speech subtitles and the pitch card are unchanged.
+- The pitch card is unchanged.
+- Subtitles are **Kai-only** (Soup's addendum): the two in-game/NPC cues
+  from v2 — "Get after him! We can catch him right now!" (0:08.56–0:10.78)
+  and "Another victim." (0:36.06–0:37.42) — are removed. All 13 remaining
+  cues are Kai's voice only. (The small caption text occasionally visible
+  at the very bottom of the gameplay is part of Kai's original stream
+  recording itself, not an added subtitle.)
 
 ## Subtitles (v2)
 
